@@ -1,0 +1,13 @@
+{
+    "Com_trang": {"gia": 10000, "calo": 130, "ten_tieng_viet": "Cơm trắng", "ten_khong_dau": "Com trang"},
+    "Dau_hu_sot_ca": {"gia": 25000, "calo": 250, "ten_tieng_viet": "Đậu hũ sốt cà", "ten_khong_dau": "Dau hu sot ca"},
+    "Ca_hu_kho": {"gia": 30000, "calo": 300, "ten_tieng_viet": "Cá hú kho", "ten_khong_dau": "Ca hu kho"},
+    "Thit_kho_trung": {"gia": 30000, "calo": 450, "ten_tieng_viet": "Thịt kho trứng", "ten_khong_dau": "Thit kho trung"},
+    "Thit_kho": {"gia": 25000, "calo": 350, "ten_tieng_viet": "Thịt kho", "ten_khong_dau": "Thit kho"},
+    "Canh_chua_co_ca": {"gia": 25000, "calo": 150, "ten_tieng_viet": "Canh chua có cá", "ten_khong_dau": "Canh chua co ca"},
+    "Canh_chua_khong_ca": {"gia": 10000, "calo": 80, "ten_tieng_viet": "Canh chua không cá", "ten_khong_dau": "Canh chua khong ca"},
+    "Suon_nuong": {"gia": 30000, "calo": 400, "ten_tieng_viet": "Sườn nướng", "ten_khong_dau": "Suon nuong"},
+    "Canh_rau": {"gia": 7000, "calo": 50, "ten_tieng_viet": "Canh rau", "ten_khong_dau": "Canh rau"},
+    "Rau_xao": {"gia": 10000, "calo": 120, "ten_tieng_viet": "Rau xào", "ten_khong_dau": "Rau xao"},
+    "Trung_chien": {"gia": 25000, "calo": 200, "ten_tieng_viet": "Trứng chiên", "ten_khong_dau": "Trung chien"}
+}
